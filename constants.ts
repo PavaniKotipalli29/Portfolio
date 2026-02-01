@@ -2,7 +2,7 @@
 export const DATA = {
   profile: {
     name: "Pavani Kotipalli",
-    title: "Frontend Developer",
+    title: "Fullstack Developer",
     shortIntro: "Full Stack Developer with hands-on experience delivering modern, end-to-end web applications",
     email: "kpavani2k5@gmail.com",
     phone: "Mail me for contact",
