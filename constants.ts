@@ -2,8 +2,8 @@
 export const DATA = {
   profile: {
     name: "Pavani Kotipalli",
-    title: "Full-Stack Developer",
-    shortIntro: "Quick learner and problem solver passionate about building clean, user-focused web applications.",
+    title: "Frontend Developer",
+    shortIntro: "Full Stack Developer with hands-on experience delivering modern, end-to-end web applications",
     email: "kpavani2k5@gmail.com",
     phone: "Mail me for contact",
     location: "Kakinada, Andhra Pradesh",
@@ -15,6 +15,7 @@ export const DATA = {
     }
   },
   about: {
+    college:"Pragati Engineering College(JNTU affliated)",
     description: "I am a Junior Full-Stack developer with hands-on experience in building clean, responsive, and user-centric web applications. I work with React, HTML, CSS, and JavaScript on the frontend, and develop backend functionality using Node.js, Express, JSP, and Servlets. I have experience working with SQL databases, implementing JWT-based authentication, integrating RESTful APIs, and handling database connectivity using JDBC. I enjoy solving problems, writing maintainable code, and continuously improving my skills by building real-world projects. I am actively seeking opportunities where I can contribute to impactful software solutions and grow as a developer."
   },
   skills: [
