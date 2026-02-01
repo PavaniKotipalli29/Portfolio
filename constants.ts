@@ -2,7 +2,7 @@
 export const DATA = {
   profile: {
     name: "Pavani Kotipalli",
-    title: "Full stack Developer",
+    title: "Frontend Developer",
     shortIntro: "Quick learner and problem solver passionate about building clean, user-focused web applications.",
     email: "kpavani2k5@gmail.com",
     phone: "Mail me for contact",
@@ -15,14 +15,13 @@ export const DATA = {
     }
   },
   about: {
-    college: "Pragati Engineering College (JNTU affiliated)",
-    description: "I am a Computer Science & Engineering student at Pragati Engineering College with a strong foundation in problem-solving and coding. I have a deep interest in frontend development, AI, and software engineering. I am passionate about building real-world projects and believe in continuous learning to stay ahead in the rapidly evolving tech landscape."
+    description: "I am a Junior Full-Stack developer with hands-on experience in building clean, responsive, and user-centric web applications. I work with React, HTML, CSS, and JavaScript on the frontend, and develop backend functionality using Node.js, Express, JSP, and Servlets. I have experience working with SQL databases, implementing JWT-based authentication, integrating RESTful APIs, and handling database connectivity using JDBC. I enjoy solving problems, writing maintainable code, and continuously improving my skills by building real-world projects. I am actively seeking opportunities where I can contribute to impactful software solutions and grow as a developer."
   },
   skills: [
-    { category: "Programming Languages", items: ["C", "Python", "Java"] },
+    { category: "Programming Languages", items: ["Python", "Java"] },
     { category: "Frontend", items: ["HTML", "CSS", "JavaScript", "React"] },
-    { category: "Backend & Database", items: ["MySQL", "JSP", "Servlets (Basics)", "Node.js (Basics)"] },
-    { category: "Tools", items: ["VS Code", "Eclipse", "Git & GitHub", "MySQL Workbench", "V0", "Antigravity"] },
+    { category: "Backend & Database", items: ["MySQL", "JSP", "Servlets (Basics)", "Node.js","Express","JDBC connection","JWT","RESTful APIs integration"] },
+    { category: "Tools", items: [ "Git & GitHub", "Postman API Testing","VS Code", "Eclipse",] },
     { category: "Soft Skills", items: ["Communication", "Team Collaboration"] }
   ],
   projects: [
@@ -40,7 +39,7 @@ export const DATA = {
     { title: "Hangman Game", description: "Word-guessing puzzle game.", tech: ["React"], image: "/projects/hangman.jpg" }
   ],
   education: [
-    { degree: "B.Tech CSE", institution: "Pragati Engineering College", period: "2023–2027", result: "CGPA: 8.39" },
+    { degree: "B.Tech CSE", institution: "Pragati Engineering College(JNTU affiliated)", period: "2023–2027", result: "CGPA: 8.39" },
     { degree: "Intermediate", institution: "Aditya Junior College", period: "2021–2023", result: "97%" },
     { degree: "SSC", institution: "Ravindra Bharathi Public School", period: "2020–2021", result: "575/600" }
   ],
