@@ -32,11 +32,11 @@ export const DATA = {
     { title: "Campus Resource Booking", description: "System for students to reserve labs, equipment, and meeting rooms.", tech: ["Java", "JDBC", "MySQL"], image: "/projects/campus-booking.jpg" },
     { title: "Login & Register System", description: "Complete authentication system with database integration.", tech: ["Java", "JSP", "Servlets", "MySQL"], image: "/projects/auth-system.jpg" },
     { title: "AI Image Generator", description: "Web interface for generating images using AI models.", tech: ["React", "API Integration"], image: "/projects/ai-image-gen.jpg" },
-    { title: "URL Shortener", description: "Tool to transform long URLs into manageable links.", tech: ["JavaScript", "HTML", "CSS"], image: "/projects/url-shortener.jpg" },
-    { title: "SQL Hands-On Project", description: "Deep dive into database design and query optimization.", tech: ["MySQL"], image: "/projects/sql-project.jpg" },
+
+
     { title: "Recycling Awareness", description: "Informative website promoting sustainable waste management.", tech: ["HTML", "CSS", "JS"], image: "/projects/recycling.jpg" },
     { title: "Snake Game", description: "Classic arcade game implementation with smooth mechanics.", tech: ["Java"], image: "/projects/snake-game.jpg" },
-    { title: "Rock Paper Scissors", description: "Interactive game against the computer.", tech: ["JavaScript", "HTML", "CSS"], image: "/projects/rps.jpg" },
+
     { title: "Hangman Game", description: "Word-guessing puzzle game.", tech: ["React"], image: "/projects/hangman.jpg" }
   ],
   education: [

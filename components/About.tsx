@@ -47,7 +47,7 @@ const About: React.FC = () => {
 
             <div>
               <p style={{ fontSize: '1.2rem', marginBottom: '1.5rem', fontWeight: 500 }}>
-                I am a student at {DATA.about.college}.
+                Hi there!
               </p>
               <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem', color: 'var(--muted-text)' }}>
                 {DATA.about.description}
